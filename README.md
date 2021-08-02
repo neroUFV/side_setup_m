@@ -18,7 +18,7 @@ para clonar este repositório. Agora, existirá uma pasta chamada setup, dentro 
 
 GL;HF! 😉
 
--   Caso queira aprender mais sobre o git e como usá-lo:  
+- Caso queira aprender mais sobre o git e como usá-lo:  
   - [Lista de comandos úteis do GIT por leocomelli](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
   - [Curso no YouTube por Professor José de Assis](https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
   - [Awesome git tutorials por jaseemabid](https://gist.github.com/jaseemabid/1321592/c92cffcc522e11b152969108669775c0e700a8e9)
