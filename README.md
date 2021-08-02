@@ -14,5 +14,6 @@ git clone https://github.com/NERo-AuRoRA/setup.git
 para clonar este repositório. Agora, existirá uma pasta chamada setup, dentro da sua pasta AuRorA.
 - Execute no MATLAB a função letsStartAuRoRA ou execute o script python letsStartAuRoRA.py e terá um ambiente assim:
 ![](https://raw.githubusercontent.com/NERo-AuRoRA/setup/main/AuRoRA_environment.png)
-- Basta agora clonar os [repositórios desejados](https://github.com/orgs/NERo-AuRoRA/teams) nas pastas respectivas e iniciar os trabalhos!
-😉
+- Basta agora [clonar](https://docs.github.com/pt/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) os [repositórios desejados](https://github.com/orgs/NERo-AuRoRA/teams) nas pastas respectivas e iniciar os trabalhos!
+
+GL;HF! 😉
