@@ -17,3 +17,11 @@ para clonar este repositório. Agora, existirá uma pasta chamada setup, dentro 
 - Basta agora [clonar](https://docs.github.com/pt/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) os [repositórios desejados](https://github.com/orgs/NERo-AuRoRA/teams) nas pastas respectivas e iniciar os trabalhos!
 
 GL;HF! 😉
+
+-   Caso queira aprender mais sobre o git e como usá-lo:  
+  - [Lista de comandos úteis do GIT por leocomelli](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
+  - [Curso no YouTube por Professor José de Assis](https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
+  - [Awesome git tutorials por jaseemabid](https://gist.github.com/jaseemabid/1321592/c92cffcc522e11b152969108669775c0e700a8e9)
+  - [treinamento-git por PauloGoncalvesBH](https://github.com/PauloGoncalvesBH/treinamento-git)
+  - [Tutorial de Git e GitHub para Iniciantes](https://terminalroot.com.br/git/) por [https://terminalroot.com.br](https://terminalroot.com.br)
+  - [Workflow no git/github](https://www.zup.com.br/blog/git-workflow)
