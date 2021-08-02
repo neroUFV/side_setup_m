@@ -2,7 +2,7 @@
 
 ## Use esse repo para instalar o sistema AuRoRA rapidamente!
 
-Para iniciar os trabalhos como AuRoRA:
+Para iniciar os trabalhos com o AuRoRA:
 - [Baixe](https://git-scm.com/downloads) e [instale o Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - Configure com suas credenciais: ([Tutorial Stackoverflow](https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git), [documentação oficial](https://git-scm.com/docs/git-credential-store)) 
 - Crie uma pasta num local de rápido acesso, com nome AuRoRA
