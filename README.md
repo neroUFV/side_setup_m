@@ -28,5 +28,7 @@ GL;HF! 😉
   - [Workflow no git/github](https://www.zup.com.br/blog/git-workflow){:target="_blank"}
   - [link name](www.google.com){:target="_blank"}
   - [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+  - <a href="http://stackoverflow.com" target="_blank" rel="noopener">Go</a>
   - <a href="http://stackoverflow.com" target="_blank">Go</a>
+  - [Hugo Host on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/){:target="_blank"}
 
