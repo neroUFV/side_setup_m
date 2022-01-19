@@ -32,4 +32,5 @@ GL;HF! 😉
   - <a href="http://stackoverflow.com" target="_blank">Go</a>
   - <a href="http://google.com" target="_blank">external link</a>
   - [demo](https://example.com){target="_blank"}
+  - <a href="http://..." target="_blank">external link</a>
 
