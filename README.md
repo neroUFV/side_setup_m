@@ -19,18 +19,12 @@ para clonar este repositório. Agora, existirá uma pasta chamada setup, dentro 
 GL;HF! 😉
 
 - Caso queira aprender mais sobre o git e como usá-lo:  
-  - [Lista de comandos úteis do GIT por leocomelli](https://gist.github.com/leocomelli/2545add34e4fec21ec16)<:target="_blank">
-  - [Curso no YouTube por Curso em Vídeo](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA){:target="_blank"}
-  - [Curso no YouTube por Professor José de Assis](https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj){:target="_blank"}
-  - [Awesome git tutorials por jaseemabid](https://gist.github.com/jaseemabid/1321592/c92cffcc522e11b152969108669775c0e700a8e9){:target="_blank"}
-  - [treinamento-git por PauloGoncalvesBH](https://github.com/PauloGoncalvesBH/treinamento-git){:target="_blank"}
-  - [Tutorial de Git e GitHub para Iniciantes](https://terminalroot.com.br/git/) por [https://terminalroot.com.br](https://terminalroot.com.br){:target="_blank"}
-  - [Workflow no git/github](https://www.zup.com.br/blog/git-workflow){:target="_blank"}
-  - [link name](www.google.com){:target="_blank"}
-  - [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
-  - <a href="http://stackoverflow.com" target="_blank" rel="noopener">Go</a>
-  - <a href="http://stackoverflow.com" target="_blank">Go</a>
-  - <a href="http://google.com" target="_blank">external link</a>
-  - [demo](https://example.com){target="_blank"}
-  - <a href="http://..." target="_blank">external link</a>
+  - [Lista de comandos úteis do GIT por leocomelli](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
+  - [Curso no YouTube por Curso em Vídeo](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+  - [Curso no YouTube por Professor José de Assis](https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
+  - [Awesome git tutorials por jaseemabid](https://gist.github.com/jaseemabid/1321592/c92cffcc522e11b152969108669775c0e700a8e9)
+  - [treinamento-git por PauloGoncalvesBH](https://github.com/PauloGoncalvesBH/treinamento-git)
+  - [Tutorial de Git e GitHub para Iniciantes](https://terminalroot.com.br/git/) por [https://terminalroot.com.br](https://terminalroot.com.br)
+  - [Workflow no git/github](https://www.zup.com.br/blog/git-workflow)
+
 
