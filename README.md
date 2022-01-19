@@ -30,5 +30,4 @@ GL;HF! 😉
   - [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
   - <a href="http://stackoverflow.com" target="_blank" rel="noopener">Go</a>
   - <a href="http://stackoverflow.com" target="_blank">Go</a>
-  - [Hugo Host on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/){:target="_blank"}
 
