@@ -1,9 +1,11 @@
 % function letsStartAuRoRA
 %letsStartAuRoRA Summary of this function goes here
 %   Detailed explanation goes here
-disp('Selecione a pasta onde a estrutura do AuRoRA ficará:')
-directoryname = uigetdir('C:\','Selecione a localização para o AuRoRA: ');
+disp('Selecione a pasta onde a estrutura do AuRoRA ficara:')
+directoryname = uigetdir('C:\','Selecione a localizacao para o AuRoRA: ');
 cd(directoryname)
+!mkdir "AuRoRA"
+cd([directoryname,'\Aurora'])
 !mkdir "!Robots"
 !mkdir "(Accessories and Tools)"
 !mkdir "(Environments and Worlds)"
