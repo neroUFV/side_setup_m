@@ -4,6 +4,8 @@
 % function letsStartAuRoRA
 %letsStartAuRoRA Summary of this function goes here
 %   Detailed explanation goes here
+% Traduzir para inglês
+
 disp('Selecione a pasta onde a estrutura do AuRoRA ficara:')
 directoryname = uigetdir('C:\','Selecione a localizacao para o AuRoRA: ');
 cd(directoryname)
