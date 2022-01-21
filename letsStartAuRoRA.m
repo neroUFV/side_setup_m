@@ -8,6 +8,7 @@ cd(directoryname)
 !mkdir "(Accessories and Tools)"
 !mkdir "(Environments and Worlds)"
 !mkdir "(Strategies and Solutions)"
+!mkdir "(Side)
 
 %% Direcionar o usuário para classoom/trevas/git
 % TODO
