@@ -8,3 +8,6 @@ dos(str)
 !git commit -m "initial commit"
 !git push origin master
 end
+
+% OUTRA ALTERACAO FEITA POR ALEXANDRE NA BRANCH CONTROLADOR
+% DIA 21/01/22 
