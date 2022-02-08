@@ -1,23 +1,17 @@
-% ALTERACAO FEITA POR ALEXANDRE NA BRANCH CONTROLADOR
-% DIA 21/01/22 
-
-% function letsStartAuRoRA
-%letsStartAuRoRA Summary of this function goes here
-%   Detailed explanation goes here
-% Traduzir para inglês
-
-disp('Selecione a pasta onde a estrutura do AuRoRA ficara:')
-directoryname = uigetdir('C:\','Selecione a localizacao para o AuRoRA: ');
+clc
+disp('Choose a local folder for AuRoRA:')
+directoryname = uigetdir('C:\','Please choose a folder for AuRoRA.');
+disp('AuRoRA workspace folder will be created in:')
+disp(directoryname)
 cd(directoryname)
 !mkdir "AuRoRA"
 cd([directoryname,'\Aurora'])
-!mkdir "!Robots"
-!mkdir "(Accessories and Tools)"
-!mkdir "(Environments and Worlds)"
-!mkdir "(Strategies and Solutions)"
-!mkdir "(Side)
+!mkdir robots
+!mkdir tools
+!mkdir worlds
+!mkdir strats
+!mkdir side
 
-%% Direcionar o usuário para classoom/trevas/git
-% TODO
-% end
+disp('All done.')
+warndlg('Remember to delete this setup repo later!')
 
